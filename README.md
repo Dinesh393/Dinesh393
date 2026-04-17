@@ -8,12 +8,11 @@
 - Solve real-world business problems using data
 
 ## 🚀 Projects
-- E-commerce SQL Analysis
-- Retail Sales Dashboard (Power BI)
-- Customer Segmentation
+- E-commerce Database Design
+- Retail Sales Analysis
 
 ## 🛠 Skills
 SQL | Python | Power BI | Excel
 
 ## 📫 Connect
-LinkedIn | Portfolio | LeetCode
+www.linkedin.com/in/dinesh-paloju | https://dinesh-paloju.vercel.app
