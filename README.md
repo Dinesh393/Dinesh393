@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dinesh 👋
 
-<!--
-**Dinesh393/Dinesh393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Data Analyst | Python | SQL | Power BI  
+📍 Hyderabad  
 
-Here are some ideas to get you started:
+## 🔥 What I Do
+- Perform data cleaning & analysis
+- Solve real-world business problems using data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- E-commerce SQL Analysis
+- Retail Sales Dashboard (Power BI)
+- Customer Segmentation
+
+## 🛠 Skills
+SQL | Python | Power BI | Excel
+
+## 📫 Connect
+LinkedIn | Portfolio | LeetCode
