@@ -43,9 +43,12 @@ A deep learning framework designed for automated surface defect detection using 
 - ✅ Data Analytics Essentials — Cisco
 
 ## 📫 Connect
-- 📧 Email: dineshpaloju453@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/dinesh-paloju
-- 🐙 GitHub: https://github.com/Dinesh393
+
+- 📧 **Email:** dineshpaloju453@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dinesh-paloju
+- 🐙 **GitHub:** https://github.com/Dinesh393
+- 🧩 **LeetCode:** https://leetcode.com/u/v2REqVlkji/
+- 💻 **HackerRank:** https://www.hackerrank.com/profile/dineshpaloju453
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
