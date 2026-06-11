@@ -34,8 +34,8 @@ A deep learning framework designed for automated surface defect detection using 
 
 ## 🎯 Current Focus
 - 🌱 Learning Advanced Data Analytics
-- 💻 Building Full Stack & Data Analytics Projects
-- 🔍 Exploring Backend Development
+- 💻 Building Full Stack Java Projects & Data Analytics Projects 
+- 🔍 Exploring Backend Development using Java
 - 💼 Open to Data Analyst & Software Engineer Opportunities
 
 ## 🏆 Certifications
