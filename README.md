@@ -1,4 +1,4 @@
-```md
+
 # 💫 About Me:
 Hi, I'm **Paloju Dinesh** 👋  
 💼 **Data Analyst | Software Engineer**  
@@ -61,4 +61,4 @@ A deep learning framework designed for automated surface defect detection using 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-```
+
